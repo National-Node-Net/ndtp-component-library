@@ -1,7 +1,7 @@
 # License 
 
 ## Copyright Notice  
-© Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.
+© Crown Copyright 2026. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.
 
 This work is licensed under the Apache License, Version 2.0.  
 
@@ -197,7 +197,7 @@ This work is licensed under the Apache License, Version 2.0.
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2025 Crown Copyright, National Digital Twin Programme,
+   Copyright 2026 Crown Copyright, National Digital Twin Programme,
    legally attributed to the Department for Business and Trade (UK)
 
    Licensed under the Apache License, Version 2.0 (the "License");
