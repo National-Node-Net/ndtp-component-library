@@ -31,7 +31,7 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
-## [0.90.0] – YYYY-MM-DD 
+## [0.90.0] – 2026-02-20
 
 ### Initial Public Release (Pre-Stable) 
 
