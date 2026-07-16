@@ -18,7 +18,7 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ---
 
-## [Unreleased] 
+## [0.90.1] – 2026-07-16
 
 ### Added 
 - Placeholder for upcoming features and enhancements. 
@@ -27,6 +27,7 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 - Placeholder for bug fixes and security updates. 
 
 ### Changed 
+- Alignment of GitHub actions to new organisation.
 - Placeholder for changes to existing functionality. 
 
 ---
